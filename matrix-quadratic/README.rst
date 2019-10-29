@@ -1,7 +1,7 @@
 Matrix Quadratic
 ################
 :Author: David Boyd
-:Date: Mon Oct 28 14:18:09 CDT 2019
+:Date: Mon Oct 28
 
 Matrix Quadratic is a program that performs calculations on matrices and
 quadratic equations.
@@ -24,10 +24,10 @@ Matrix
 The Matrix class allows the user to define the dimensions a 2D-array.  The
 matrix will auto-fill the values with random numbers between 0 and 99.  The
 **math** methods include **add(int)**, and multiplication by either
-**scalar(int)** or another matrix: **multiple(int[][])**.
+**scalar(int)** or another matrix: **multiply(int[][])**.
 
 To print the results, use either **printSumMatrix()** or
-**printProdcutMatrix()**.
+**printProductMatrix()**.
 
 Quadratic Equation
 ==================

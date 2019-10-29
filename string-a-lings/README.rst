@@ -1,7 +1,7 @@
 String-A-Lings
 ##############
 :Author: David Boyd
-:Date: Mon Oct 28 14:18:09 CDT 2019
+:Date: Mon Oct 28
 
 Strings takes a string and manipulates it by reversal, random, and even
 sub-string odd and even.
