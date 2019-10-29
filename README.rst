@@ -6,10 +6,10 @@ Java Fundamentals
 +----------------+----------------------------------------------------------+
 | Program        | Description                                              |
 +================+==========================================================+
-| String-a-lings | Strings takes a string and manipulates it by reversal,   |
-|                | random, and even sub-string odd and even.                |
-+----------------+----------------------------------------------------------+
 | Matrix and     | Matrix Quadratic is a program that performs calculations |
 | Quadratics     | on matrices and quadratic equations.                     |
++----------------+----------------------------------------------------------+
+| String-a-lings | Strings takes a string and manipulates it by reversal,   |
+|                | random, and even sub-string odd and even.                |
 +----------------+----------------------------------------------------------+
 
