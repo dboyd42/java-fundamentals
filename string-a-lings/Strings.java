@@ -1,3 +1,13 @@
+/*
+* Copyright 2019 David Boyd, all rights reserved
+* Program: Strings
+* Description:
+*     The program manipulates strings by reverse, random shuffle, odd/even
+*     index chars, and subsets.
+* Date: Fri Sep 27
+* Revised:
+*     <revision date>
+*/
 import java.util.Scanner;
 import java.util.Random;
 
